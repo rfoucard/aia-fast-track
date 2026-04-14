@@ -530,3 +530,13 @@ The Commission could develop and recommend voluntary model contractual terms bet
   <summary><strong>(91) Deployer responsibilities</strong> Deployers should use high-risk AI systems correctly, monitor their operation, keep records, and ensure competent and trained human oversight.</summary>
 Given the nature of AI systems and the risks to safety and fundamental rights possibly associated with their use, including as regards the need to ensure proper monitoring of the performance of an AI system in a real-life setting, it is appropriate to set specific responsibilities for deployers. Deployers should in particular take appropriate technical and organisational measures to ensure they use high-risk AI systems in accordance with the instructions of use and certain other obligations should be provided for with regard to monitoring of the functioning of the AI systems and with regard to record-keeping, as appropriate. Furthermore, deployers should ensure that the persons assigned to implement the instructions for use and human oversight as set out in this Regulation have the necessary competence, in particular an adequate level of AI literacy, training and authority to properly fulfil those tasks. Those obligations should be without prejudice to other deployer obligations in relation to high-risk AI systems under Union or national law.
 </details>
+
+
+Règle intégrée.
+
+Application concrète pour le dernier récital :
+
+<details>
+  <summary><strong>(92) Worker information on high-risk AI deployment</strong> Employers should inform workers and their representatives about the planned deployment of high-risk AI systems, without affecting existing information and consultation rights.</summary>
+This Regulation is without prejudice to obligations for employers to inform or to inform and consult workers or their representatives under Union or national law and practice, including :contentReference[oaicite:0]{index=0}, on decisions to put into service or use AI systems. It remains necessary to ensure information of workers and their representatives on the planned deployment of high-risk AI systems at the workplace where the conditions for those information or information and consultation obligations in other legal instruments are not fulfilled. Moreover, such information right is ancillary and necessary to the objective of protecting fundamental rights that underlies this Regulation. Therefore, an information requirement to that effect should be laid down in this Regulation, without affecting any existing rights of workers.
+</details>
