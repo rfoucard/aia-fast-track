@@ -822,3 +822,81 @@ This Regulation should provide the legal basis for the providers and prospective
 </details>
 
 
+<details>
+  <summary><strong>(141) Real-world testing outside sandboxes</strong> High-risk AI systems may be tested in real conditions without sandbox participation, subject to strict safeguards, oversight, and consent requirements.</summary>
+This Regulation allows providers or prospective providers of high-risk AI systems listed in an annex to test those systems in real world conditions without participating in an AI regulatory sandbox, in order to accelerate development and market entry. However, given the potential impact on individuals, such testing should be subject to appropriate safeguards and conditions. These include, in particular, obtaining informed consent from natural persons participating in the testing, except in law enforcement cases where consent would undermine the testing. This consent is separate from consent under data protection law.  
+
+To minimise risks and ensure oversight, providers should submit a real-world testing plan to the competent market surveillance authority, register the testing in dedicated sections of the EU database (with limited exceptions), define time limits for testing, and implement additional protections for vulnerable groups. A written agreement should clearly define roles and responsibilities between providers and deployers, and testing should be supervised by qualified personnel.
+
+Additional safeguards should ensure that outputs of the AI system can be reversed or disregarded, and that personal data is protected and deleted if participants withdraw consent, without affecting their rights under Union data protection law. Transfers of data collected during testing to third countries should only occur where appropriate safeguards are in place under Union law, including for personal data (e.g. GDPR frameworks) and for non-personal data under relevant EU regulations.
+
+</details>
+
+
+<details>
+  <summary><strong>(142) Socially and environmentally beneficial AI</strong> Member States should support AI projects that promote accessibility, equality, and environmental goals through funding and interdisciplinary collaboration.</summary>
+To ensure that AI leads to socially and environmentally beneficial outcomes, Member States are encouraged to support and promote research and development of AI solutions in support of such outcomes, for example by increasing accessibility for persons with disabilities, addressing socio-economic inequalities, or contributing to environmental objectives. This support may include allocating sufficient resources, including public and Union funding, and giving appropriate consideration to projects pursuing these goals where eligibility criteria are met. Such projects should rely on interdisciplinary cooperation between AI developers and experts in areas such as inequality, non-discrimination, accessibility, consumer protection, environmental protection, digital rights, and academia.
+</details>
+
+
+<details>
+  <summary><strong>(143) Support for SMEs and start-ups</strong> Member States and the Commission should provide targeted support, access to sandboxes, and cost-reduction measures to help SMEs comply and innovate.</summary>
+In order to promote and protect innovation, it is important that the interests of SMEs, including start-ups, that are providers or deployers of AI systems are taken into particular account. To that end, Member States should develop targeted initiatives, including awareness-raising and information communication. SMEs, including start-ups established in the Union, should be given priority access to AI regulatory sandboxes where they meet eligibility criteria, without excluding others under the same conditions.  
+
+Member States should establish or use communication channels to support SMEs throughout their development, providing guidance and answering questions about the implementation of this Regulation, while ensuring consistency across channels. They should also facilitate SME participation in standardisation processes. Notified bodies should take SME needs into account when setting conformity assessment fees, and the Commission should regularly assess and work to reduce compliance and certification costs, including translation burdens.
+
+Member States should consider using widely understood languages for documentation and communication. The Commission should support SMEs by providing standardised templates, a single accessible information platform, awareness campaigns, and promoting best practices in public procurement. Recently transitioned medium-sized enterprises should also benefit from these support measures.
+
+</details>
+
+<details>
+  <summary><strong>(144) Use of EU programmes to support AI innovation</strong> Union funding programmes and platforms should contribute to achieving the objectives of this Regulation.</summary>
+In order to promote and protect innovation, the AI-on-demand platform, and relevant Union funding programmes and projects, such as Digital Europe Programme and Horizon Europe, implemented by the Commission and the Member States at Union or national level should, as appropriate, contribute to the achievement of the objectives of this Regulation.
+</details>
+
+
+<details>
+  <summary><strong>(145) Support infrastructure for implementation</strong> EU platforms and hubs should provide technical and scientific support to facilitate compliance, especially for SMEs and notified bodies.</summary>
+In order to minimise the risks to implementation resulting from lack of knowledge and expertise in the market as well as to facilitate compliance of providers, in particular SMEs, including start-ups, and notified bodies with their obligations under this Regulation, the AI-on-demand platform, the European Digital Innovation Hubs and the testing and experimentation facilities established by the Commission and the Member States at Union or national level should contribute to the implementation of this Regulation. Within their respective mission and fields of competence, these entities should provide in particular technical and scientific support to providers and notified bodies.
+</details>
+
+
+<details>
+  <summary><strong>(146) Simplified obligations for microenterprises</strong> Microenterprises should be allowed to implement a simplified quality management system to reduce costs while maintaining compliance.</summary>
+Moreover, in light of the very small size of some operators and in order to ensure proportionality regarding costs of innovation, it is appropriate to allow microenterprises to fulfil one of the most costly obligations, namely to establish a quality management system, in a simplified manner which would reduce the administrative burden and the costs for those enterprises without affecting the level of protection and the need for compliance with the requirements for high-risk AI systems. The Commission should develop guidelines to specify the elements of the quality management system to be fulfilled in this simplified manner by microenterprises.
+</details>
+
+
+<details>
+  <summary><strong>(147) Access to testing facilities</strong> The Commission should facilitate access to testing and experimentation facilities for accredited bodies involved in conformity assessment.</summary>
+It is appropriate that the Commission facilitates, to the extent possible, access to testing and experimentation facilities to bodies, groups or laboratories established or accredited pursuant to any relevant Union harmonisation legislation and which fulfil tasks in the context of conformity assessment of products or devices covered by that Union harmonisation legislation. This is, in particular, the case as regards expert panels, expert laboratories and reference laboratories in the field of medical devices pursuant to Regulations (EU) 2017/745 and (EU) 2017/746.
+</details>
+
+
+<details>
+  <summary><strong>(148) Governance framework for AI regulation</strong> A coordinated EU and national governance system should be established, centred on the AI Office and supported by a Board, scientific panel, and advisory forum.</summary>
+This Regulation establishes a governance framework to coordinate and support its application at national level while building expertise and capabilities at Union level and involving stakeholders in the AI field. Effective implementation and enforcement require central coordination and expertise at EU level.  
+
+The AI Office, established by the Commission, plays a key role in developing EU expertise and supporting the implementation of AI law. Member States should facilitate its work to strengthen the digital single market.
+
+The framework should include a Board composed of Member State representatives, a scientific panel to involve the research community, and an advisory forum to integrate stakeholder input. It should also leverage existing EU resources and initiatives, including synergies with other regulatory structures and programmes such as the EuroHPC Joint Undertaking and AI testing and experimentation facilities under the Digital Europe Programme.
+
+</details>
+
+
+<details>
+  <summary><strong>(149) Role and structure of the AI Board</strong> A Member State–based Board should coordinate implementation through advisory tasks, sub-groups, and cooperation with EU bodies.</summary>
+To ensure a smooth and harmonised implementation of this Regulation, a Board composed of representatives of the Member States should be established, reflecting the diversity of the AI ecosystem. The Board should perform advisory functions, including issuing opinions, recommendations and guidance on implementation, enforcement, technical specifications and standards, and advising the Commission and national authorities on AI-related matters.  
+
+Member States may appoint representatives from public entities with the necessary expertise and authority to support coordination at national level. The Board should create two permanent sub-groups: one for market surveillance (acting as the administrative cooperation group under EU market surveillance law) and one for notifying authorities. The Commission should support the market surveillance subgroup, including through evaluations and studies to identify areas requiring coordination.
+
+The Board may also establish additional sub-groups as needed and should cooperate with other relevant EU bodies, expert groups and networks, particularly those working on data, digital products and services.
+
+</details>
+
+
+<details>
+  <summary><strong>(150) Advisory forum for stakeholder involvement (FRA, ENISA, CEN, CENELEC, ETSI)</strong> A diverse advisory forum should provide expertise and ensure balanced stakeholder representation in the implementation of the Regulation.</summary>
+With a view to ensuring the involvement of stakeholders in the implementation and application of this Regulation, an advisory forum should be established to advise and provide technical expertise to the Board and the Commission. To ensure a varied and balanced stakeholder representation between commercial and non-commercial interest and, within the category of commercial interests, with regards to SMEs and other undertakings, the advisory forum should comprise inter alia industry, start-ups, SMEs, academia, civil society, including the social partners, as well as the Fundamental Rights Agency, ENISA, the European Committee for Standardization (CEN), the European Committee for Electrotechnical Standardization (CENELEC) and the European Telecommunications Standards Institute (ETSI).
+</details>
+
