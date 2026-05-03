@@ -673,5 +673,33 @@ Providers of general-purpose AI models with systemic risks should assess and mit
 </details>
 
 
+<details>
+  <summary><strong>(116) Codes of practice for general-purpose AI models</strong> The AI Office should lead the development of codes of practice, involving stakeholders, covering obligations and systemic risk taxonomy and mitigation.</summary>
+The AI Office should encourage and facilitate the drawing up, review and adaptation of codes of practice, taking into account international approaches. All providers of general-purpose AI models could be invited to participate. To ensure that the codes of practice reflect the state of the art and duly take into account a diverse set of perspectives, the AI Office should collaborate with relevant national competent authorities, and could, where appropriate, consult with civil society organisations and other relevant stakeholders and experts, including the Scientific Panel, for the drawing up of such codes. Codes of practice should cover obligations for providers of general-purpose AI models and of general-purpose AI models presenting systemic risks. In addition, as regards systemic risks, codes of practice should help to establish a risk taxonomy of the type and nature of the systemic risks at Union level, including their sources. Codes of practice should also be focused on specific risk assessment and mitigation measures.
+</details>
+
+
+<details>
+  <summary><strong>(117) Legal role of codes of practice for general-purpose AI models</strong> Codes of practice should enable compliance, with Commission approval or fallback rules, and alternatives like standards or other adequate means.</summary>
+The codes of practice should represent a central tool for the proper compliance with the obligations provided for under this Regulation for providers of general-purpose AI models. Providers should be able to rely on codes of practice to demonstrate compliance with the obligations. By means of implementing acts, the Commission may decide to approve a code of practice and give it a general validity within the Union, or, alternatively, to provide common rules for the implementation of the relevant obligations, if, by the time this Regulation becomes applicable, a code of practice cannot be finalised or is not deemed adequate by the AI Office. Once a harmonised standard is published and assessed as suitable to cover the relevant obligations by the AI Office, compliance with a European harmonised standard should grant providers the presumption of conformity. Providers of general-purpose AI models should furthermore be able to demonstrate compliance using alternative adequate means, if codes of practice or harmonised standards are not available, or they choose not to rely on those.
+</details>
+
+
+<details>
+  <summary><strong>(118) Interaction with Digital Services Act for AI systems and models</strong> AI Act obligations complement DSA rules, with presumed compliance for VLOPs/VLOSEs unless additional systemic risks arise.</summary>
+This Regulation regulates AI systems and AI models by imposing certain requirements and obligations for relevant market actors that are placing them on the market, putting into service or use in the Union, thereby complementing obligations for providers of intermediary services that embed such systems or models into their services regulated by Regulation (EU) 2022/2065. To the extent that such systems or models are embedded into designated very large online platforms or very large online search engines, they are subject to the risk-management framework provided for in Regulation (EU) 2022/2065. Consequently, the corresponding obligations of this Regulation should be presumed to be fulfilled, unless significant systemic risks not covered by Regulation (EU) 2022/2065 emerge and are identified in such models. Within this framework, providers of very large online platforms and very large online search engines are obliged to assess potential systemic risks stemming from the design, functioning and use of their services, including how the design of algorithmic systems used in the service may contribute to such risks, as well as systemic risks stemming from potential misuses. Those providers are also obliged to take appropriate mitigating measures in observance of fundamental rights.
+</details>
+
+
+<details>
+  <summary><strong>(119) AI systems as intermediary services under the DSA</strong> AI systems can qualify as intermediary services (e.g. search/chatbots), requiring technology-neutral interpretation alongside DSA rules.</summary>
+Considering the quick pace of innovation and the technological evolution of digital services in scope of different instruments of Union law in particular having in mind the usage and the perception of their recipients, the AI systems subject to this Regulation may be provided as intermediary services or parts thereof within the meaning of Regulation (EU) 2022/2065, which should be interpreted in a technology-neutral manner. For example, AI systems may be used to provide online search engines, in particular, to the extent that an AI system such as an online chatbot performs searches of, in principle, all websites, then incorporates the results into its existing knowledge and uses the updated knowledge to generate a single output that combines different sources of information.
+</details>
+
+
+<details>
+  <summary><strong>(120) Transparency of AI-generated content and DSA risk mitigation</strong> Disclosure of AI-generated content should support VLOPs/VLOSEs in identifying and mitigating systemic risks like disinformation.</summary>
+Furthermore, obligations placed on providers and deployers of certain AI systems in this Regulation to enable the detection and disclosure that the outputs of those systems are artificially generated or manipulated are particularly relevant to facilitate the effective implementation of Regulation (EU) 2022/2065. This applies in particular as regards the obligations of providers of very large online platforms or very large online search engines to identify and mitigate systemic risks that may arise from the dissemination of content that has been artificially generated or manipulated, in particular risk of the actual or foreseeable negative effects on democratic processes, civic discourse and electoral processes, including through disinformation.
+</details>
 
 
