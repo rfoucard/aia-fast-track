@@ -570,10 +570,12 @@ Without prejudice to applicable Union law, in particular :contentReference[oaici
   <summary><strong>(96) Fundamental rights impact assessment for high-risk AI</strong> Certain deployers of high-risk AI systems, especially in public services, should assess and mitigate risks to fundamental rights before and during use.</summary>
 In order to efficiently ensure that fundamental rights are protected, deployers of high-risk AI systems that are bodies governed by public law, or private entities providing public services and deployers of certain high-risk AI systems listed in an annex to this Regulation, such as banking or insurance entities, should carry out a fundamental rights impact assessment prior to putting it into use. Services important for individuals that are of public nature may also be provided by private entities. Private entities providing such public services are linked to tasks in the public interest such as in the areas of education, healthcare, social services, housing, administration of justice. The aim of the fundamental rights impact assessment is for the deployer to identify the specific risks to the rights of individuals or groups of individuals likely to be affected, identify measures to be taken in the case of a materialisation of those risks. The impact assessment should be performed prior to deploying the high-risk AI system, and should be updated when the deployer considers that any of the relevant factors have changed. The impact assessment should identify the deployer’s relevant processes in which the high-risk AI system will be used in line with its intended purpose, and should include a description of the period of time and frequency in which the system is intended to be used as well as of specific categories of natural persons and groups who are likely to be affected in the specific context of use. The assessment should also include the identification of specific risks of harm likely to have an impact on the fundamental rights of those persons or groups. While performing this assessment, the deployer should take into account information relevant to a proper assessment of the impact, including but not limited to the information given by the provider of the high-risk AI system in the instructions for use. In light of the risks identified, deployers should determine measures to be taken in the case of a materialisation of those risks, including for example governance arrangements in that specific context of use, such as arrangements for human oversight according to the instructions of use or, complaint handling and redress procedures, as they could be instrumental in mitigating risks to fundamental rights in concrete use-cases. After performing that impact assessment, the deployer should notify the relevant market surveillance authority. Where appropriate, to collect relevant information necessary to perform the impact assessment, deployers of high-risk AI system, in particular when AI systems are used in the public sector, could involve relevant stakeholders, including the representatives of groups of persons likely to be affected by the AI system, independent experts, and civil society organisations in conducting such impact assessments and designing measures to be taken in the case of materialisation of the risks. The European Artificial Intelligence Office (AI Office) should develop a template for a questionnaire in order to facilitate compliance and reduce the administrative burden for deployers.
 </details>
-<details>
+
 
 ## 8. General-Purpose AI Models (GPAI), Open Source & Copyright (recitals 97–109)
-  
+
+<details>
+ 
   <summary><strong>(97) Definition and obligations for general-purpose AI models</strong> General-purpose AI models should be clearly defined and regulated separately from AI systems, with specific obligations applying when they are placed on the market, especially for those posing systemic risks.</summary>
 The notion of general-purpose AI models should be clearly defined and set apart from the notion of AI systems to enable legal certainty. The definition should be based on the key functional characteristics of a general-purpose AI model, in particular the generality and the capability to competently perform a wide range of distinct tasks. These models are typically trained on large amounts of data, through various methods, such as self-supervised, unsupervised or reinforcement learning. General-purpose AI models may be placed on the market in various ways, including through libraries, application programming interfaces (APIs), as direct download, or as physical copy. These models may be further modified or fine-tuned into new models. Although AI models are essential components of AI systems, they do not constitute AI systems on their own. AI models require the addition of further components, such as for example a user interface, to become AI systems. AI models are typically integrated into and form part of AI systems. This Regulation provides specific rules for general-purpose AI models and for general-purpose AI models that pose systemic risks, which should apply also when these models are integrated or form part of an AI system. It should be understood that the obligations for the providers of general-purpose AI models should apply once the general-purpose AI models are placed on the market. When the provider of a general-purpose AI model integrates an own model into its own AI system that is made available on the market or put into service, that model should be considered to be placed on the market and, therefore, the obligations in this Regulation for models should continue to apply in addition to those for AI systems. The obligations laid down for models should in any case not apply when an own model is used for purely internal processes that are not essential for providing a product or a service to third parties and the rights of natural persons are not affected. Considering their potential significantly negative effects, the general-purpose AI models with systemic risk should always be subject to the relevant obligations under this Regulation. The definition should not cover AI models used before their placing on the market for the sole purpose of research, development and prototyping activities. This is without prejudice to the obligation to comply with this Regulation when, following such activities, a model is placed on the market.
 </details>
@@ -822,6 +824,7 @@ The obligations placed on providers and deployers of certain AI systems in this 
 Compliance with the transparency obligations for the AI systems covered by this Regulation should not be interpreted as indicating that the use of the AI system or its output is lawful under this Regulation or other Union and Member State law and should be without prejudice to other transparency obligations for deployers of AI systems laid down in Union or national law.
 </details>
 
+## 12. AI Regulatory Sandboxes & Real-World Testing (recitals 138–141)
 
 <details>
   <summary><strong>(138) AI regulatory sandboxes</strong> Member States should establish sandboxes to enable safe, supervised testing of innovative AI systems before market deployment.</summary>
@@ -851,6 +854,8 @@ Additional safeguards should ensure that outputs of the AI system can be reverse
 
 </details>
 
+
+## 13. Innovation, SMEs & Support Infrastructure (recitals 142–147)
 
 <details>
   <summary><strong>(142) Socially and environmentally beneficial AI</strong> Member States should support AI projects that promote accessibility, equality, and environmental goals through funding and interdisciplinary collaboration.</summary>
@@ -891,6 +896,7 @@ Moreover, in light of the very small size of some operators and in order to ensu
 It is appropriate that the Commission facilitates, to the extent possible, access to testing and experimentation facilities to bodies, groups or laboratories established or accredited pursuant to any relevant Union harmonisation legislation and which fulfil tasks in the context of conformity assessment of products or devices covered by that Union harmonisation legislation. This is, in particular, the case as regards expert panels, expert laboratories and reference laboratories in the field of medical devices pursuant to Regulations (EU) 2017/745 and (EU) 2017/746.
 </details>
 
+## 14. EU Governance Framework & Institutional Structure (recitals 148–152)
 
 <details>
   <summary><strong>(148) Governance framework for AI regulation</strong> A coordinated EU and national governance system should be established, centred on the AI Office and supported by a Board, scientific panel, and advisory forum.</summary>
@@ -933,6 +939,8 @@ To support the implementation and enforcement of this Regulation, in particular 
 In order to support adequate enforcement as regards AI systems and reinforce the capacities of the Member States, Union AI testing support structures should be established and made available to the Member States.
 </details>
 
+
+## 15. National Authorities, Market Surveillance & Enforcement Cooperation (recitals 153–167)
 
 <details>
   <summary><strong>(153) National competent authorities</strong> Member States should designate notifying and market surveillance authorities, with a single point of contact.</summary>
@@ -1025,6 +1033,9 @@ In order to ensure trustful and constructive cooperation of competent authoritie
 </details>
 
 
+## 16. Penalties, Rights & Remedies (recitals 168–172)
+
+
 <details>
   <summary><strong>(168) Penalties and enforcement</strong> Member States should impose effective and harmonised penalties, taking proportionality and provider size into account.</summary>
 In order to ensure trustful and constructive cooperation of competent authorities on Union and national level, all parties involved in the application of this Regulation should respect the confidentiality of information and data obtained in carrying out their tasks, in accordance with Union or national law. They should carry out their tasks and activities in such a manner as to protect, in particular, intellectual property rights, confidential business information and trade secrets, the effective implementation of this Regulation, public and national security interests, the integrity of criminal and administrative proceedings, and the integrity of classified information.
@@ -1054,6 +1065,8 @@ Affected persons should have the right to obtain an explanation where a deployer
 Persons acting as whistleblowers on the infringements of this Regulation should be protected under the Union law. Directive (EU) 2019/1937 of the European Parliament and of the Council (54) should therefore apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
 </details>
 
+## 17. Delegated Powers, Reviews & Implementation Mechanisms (recitals 173–175)
+
 
 <details>
   <summary><strong>(173) Delegated powers and future adaptation of the Regulation</strong> The Commission should be empowered to update key parts of the Regulation through delegated acts with proper consultation and institutional participation.</summary>
@@ -1072,6 +1085,8 @@ Given the rapid technological developments and the technical expertise required 
 In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (56).
 </details>
 
+
+## 18. Subsidiarity, Transition & Entry into Application (recitals 176–180)
 
 <details>
   <summary><strong>(176) Subsidiarity and proportionality</strong> EU-level action is justified because the Regulation’s objectives cannot be sufficiently achieved by Member States alone and should remain proportionate.</summary>
